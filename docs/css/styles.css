@@ -59,3 +59,8 @@ img.profile {
 .email {
     color: #3176c5;
 }
+
+.copyright {
+    float: right;
+    font-size: 14px;
+}
