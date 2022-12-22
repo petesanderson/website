@@ -32,20 +32,8 @@ article {
     padding: 1em 1em 0 1em;
 }
 
-.footer ul {
-    padding: 0;
-}
-
 h2 {
     color: #3176c5;
-}
-
-ul {
-    list-style: none;
-}
-
-ul > li {
-    display: inline-block;
 }
 
 img.profile {
