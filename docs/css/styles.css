@@ -13,7 +13,7 @@ nav {
     padding: 1em;
 }
 
-article {
+.main {
     margin-left: auto;
     margin-right: auto;
     width: 66.7%;
@@ -21,7 +21,7 @@ article {
 
 @media only screen and (max-width: 600px)
 {
-    article {
+    .main {
         margin-left: auto;
         margin-right: auto;
         width: 80%;
@@ -32,8 +32,12 @@ article {
     padding: 1em 1em 0 1em;
 }
 
-h2 {
+h1, h2 {
     color: #3176c5;
+}
+
+h2 {
+    font-size: 20px;
 }
 
 img.profile {
